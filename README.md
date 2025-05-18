@@ -6,6 +6,5 @@ Best script for aimboting and wallhacks.
 - Good Aimbot and tons of features
 
 ## newest releases
-**v1.0028488216624**
-    --ezwingg
+    --ezwingg release 1
     loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
