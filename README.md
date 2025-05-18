@@ -7,4 +7,4 @@ Best script for aimboting and wallhacks.
 
 ## newest releases
     --ezwingg release 1
-    loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/ReleaseEzwingg/Ezwin.gg.github.io/refs/heads/main/obf_hRYg1nkkQS21ib62oqj0RL7ac7L0uhRlG2aMFl904B2q1a0PglM1VR28Co461755.lua'))()
