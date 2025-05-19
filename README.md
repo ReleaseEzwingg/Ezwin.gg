@@ -7,7 +7,7 @@ Best script for aimboting and wallhacks.
 - Smooth tracking and easy legit bot features
 
 ## Website
-[https://Ezwin.gg](https://releaseezwingg.github.io/Ezwin.gg.github.io/)
+[https://Ezwin.gg](https://releaseezwingg.github.io/Ezwin.gg/)
 
 ## newest releases
     --ezwingg release 1
