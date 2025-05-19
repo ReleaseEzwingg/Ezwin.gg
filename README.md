@@ -5,6 +5,7 @@ Best script for aimboting and wallhacks.
 - Sleek Design using Rayfield UI
 - Good Aimbot and tons of features
 - Smooth tracking and easy legit bot features
+- Compatible with most Executors
 
 ## Website
 [https://Ezwin.gg](https://releaseezwingg.github.io/Ezwin.gg/)
